@@ -39,3 +39,4 @@
 - 將 htdocs 裡的 index.php 路徑設置為此 REPO資料夾的名稱
     - 原本應該會是 header('Location: '.$uri.'/dashboard/');
     - 將dashboard 改成此REPO 資料夾名稱 
+sgdsv
